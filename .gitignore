@@ -1,0 +1,15 @@
+*.tfvars
+*tfstate*
+*.txt
+*.zip
+*lock*
+.terraform
+gdac-es
+*.tfvars
+*.json
+*copy.sh
+# .gitignore
+prov_gdacmanager
+*.pem
+*.log
+
